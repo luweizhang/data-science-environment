@@ -25,3 +25,6 @@ install bq helper <br>
 
 start the jupyter notebook (make sure you switch to the correct kernell) <br>
 `jupyter notebook`
+
+exit the environment <br>
+`conda deactivate`
